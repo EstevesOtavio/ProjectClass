@@ -1,0 +1,12 @@
+Utilizar ícones para colocar formas no NetBeans
+
+
+
+Todo objeto precisa possuir um modelo - por isso o Model.
+ - DAO
+
+O Controle é uma ponte para alterações no banco.
+ - Interação entre informações de telas (coletar dados) e Banco de Dados.
+ - View pode chamar função dele para validar dados, por exemplo.
+ - Chama funções das telas e do banco de dados passando parâmentros
+ - Fechar e abrir telas.
